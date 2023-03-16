@@ -1,0 +1,1410 @@
+/var/log/syslog:May 20 00:37:33 manavi-desktop 612_FINAL[11266]: Stop Sign Detection running on core #1
+/var/log/syslog:May 20 00:37:33 manavi-desktop 612_FINAL[11266]: Pedestrian Detection running on core #2
+/var/log/syslog:May 20 00:37:33 manavi-desktop 612_FINAL[11266]: Lane Detection running on core #3
+/var/log/syslog:May 20 00:37:33 manavi-desktop 612_FINAL[11266]: Stop light Detection running on core #4
+/var/log/syslog:May 20 00:37:33 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.087503
+/var/log/syslog:May 20 00:37:33 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.416016
+/var/log/syslog:May 20 00:37:33 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.843233
+/var/log/syslog:May 20 00:37:33 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.786626
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.099617
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.629435
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.378069
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.686579
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 25.798062
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.171302
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 21.027333
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 26.132570
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.383602
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.691324
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.017531
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.712967
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.943419
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.188199
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.965991
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.280226
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 30.628725
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.224364
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.992465
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.003004
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.044064
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.894456
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 24.446743
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.728272
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 14.305182
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.561535
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.095608
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.541046
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.109212
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 31.718178
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.025132
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.617155
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.018280
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.794201
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.323519
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.093853
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.050537
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 30.930604
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.320738
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.292631
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 41.505413
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.663393
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.596453
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 15.247875
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.735755
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.206841
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.241855
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.877643
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.958211
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.575134
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.118287
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 36.813739
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 14.263908
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.814891
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.688962
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.213633
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.650197
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.373456
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.813834
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.422497
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.601926
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.538280
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.694889
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.507027
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.233938
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.461070
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.074232
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.421943
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 10.808259
+/var/log/syslog:May 20 00:37:34 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.069969
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.178728
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 21.637442
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.896010
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.618871
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.240956
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.986305
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.056627
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.806517
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 26.288352
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.742047
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 28.589448
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 30.247381
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.197700
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.521843
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.530475
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 28.895109
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.433222
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.957926
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 34.093011
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.022822
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 47.744440
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.091375
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.333880
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.876844
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.729790
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.597245
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.163597
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 39.168661
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.010165
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.575969
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 31.977934
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.772715
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.022153
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.092889
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 42.160820
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.764550
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.109905
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.146408
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 16.350236
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.226192
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 33.086413
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.481915
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.440148
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 22.875176
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.106102
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.821137
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.013369
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 47.905025
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.019823
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.934960
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 16.306167
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 15.034515
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.798076
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.854384
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.377063
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.580557
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.761989
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.942294
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.814343
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.505341
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 22.876757
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.578879
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.419025
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.278600
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.725332
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.453918
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.373344
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.625279
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 37.352684
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.710229
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.027572
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.445307
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.045471
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.714832
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 37.361696
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.934199
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.229430
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.501328
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.461354
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.877411
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.918324
+/var/log/syslog:May 20 00:37:35 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.469679
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.303565
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.413219
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.200750
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.637957
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 40.201715
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.287876
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.144409
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.374634
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.587061
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.207545
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.169557
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.712838
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.092604
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 18.662399
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.474011
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.496403
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.976480
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.939024
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.950326
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.463594
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.047985
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.998224
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.816632
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.963601
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.355826
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.076439
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.528920
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.290686
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.092215
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.651276
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.287124
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.777962
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.723440
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 47.531212
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.683429
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.150539
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.025686
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.675063
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.912681
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.884888
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.065116
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.941519
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.007769
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.976715
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.000192
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.799894
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.301197
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.691024
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.561948
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.333652
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.320289
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.661061
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 34.747101
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.334239
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.893524
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.567618
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 31.991361
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 34.688716
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.490946
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.028076
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.794951
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.329453
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.556079
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.689085
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.301841
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.047275
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.611877
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 16.156549
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.049289
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.685257
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.195940
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.250669
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.503240
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.827312
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.432079
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.835234
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.680607
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.806963
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.020771
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.791124
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 47.115619
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.191168
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.868592
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.758087
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.889087
+/var/log/syslog:May 20 00:37:36 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.879468
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.647456
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.146998
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.857951
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 16.935364
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 47.760473
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.291738
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.084545
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.046896
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.406909
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.128245
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.603650
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.715257
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.826779
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.276892
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.374938
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.993886
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.424426
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.731601
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 13.707900
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.362206
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 25.574491
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.499040
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.023987
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.992201
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.660527
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 42.072679
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.207487
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.674616
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.109471
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 25.151603
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.670298
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.489140
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.270140
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.943946
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.253488
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.904068
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 24.516447
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.043944
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.079566
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.922192
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.000471
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 21.232428
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.016971
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.746236
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.755397
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.404462
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.713047
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.710467
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.280572
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 34.072680
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.193358
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.822503
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.153579
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.940446
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.993704
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 14.977594
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.743251
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.347380
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.742579
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.692978
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 27.217281
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.218013
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.376203
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 30.233804
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.405486
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.215313
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.168271
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.800587
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.733973
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.360395
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.845966
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.299588
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.030272
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.649127
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.686294
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.722512
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 15.808767
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.190082
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.428955
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.888056
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.194616
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.116499
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.967717
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.377800
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.690465
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.029120
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.642024
+/var/log/syslog:May 20 00:37:37 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.760314
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.804636
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 39.234049
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.898344
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.527447
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.499608
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 28.653317
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.832691
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.366913
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.738379
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.255996
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 25.635785
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.151166
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.139477
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 26.063378
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 32.909185
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.920445
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.568474
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.389182
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 19.503002
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 28.840595
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.187640
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.533182
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.679388
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.308009
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.553658
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 25.007179
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.718067
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.872226
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.962060
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.861651
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.465059
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.020455
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.216043
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.862832
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.020195
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.577063
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 10.995855
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.429617
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.492295
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.611646
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.870214
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.786723
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.110878
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 17.887561
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.081519
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.589051
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.889084
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.864300
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 37.805082
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.800847
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.776853
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.469000
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.288725
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 33.273970
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.931712
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.438820
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.297452
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.702116
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.922567
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.728105
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.663474
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.314665
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.297857
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.779910
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.038716
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.086524
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.431030
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.616134
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.630573
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.661440
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.311046
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.211909
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.899696
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.336137
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 26.319480
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.952750
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.109969
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.290760
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.979371
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.540626
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.595039
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.212751
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 28.788049
+/var/log/syslog:May 20 00:37:38 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.733706
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.039509
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.080639
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.760414
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.193921
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.920300
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.878101
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.925366
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.490336
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.566010
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.722868
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.212599
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.417576
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.297354
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 19.817033
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.934832
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.707556
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.333881
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.046645
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.835342
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.870649
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.182617
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 24.818624
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.862057
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.410552
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.947858
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.968468
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.938287
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.060439
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.056118
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.175014
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.776162
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.871847
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.114759
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.906543
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.349278
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.589162
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.824098
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.309243
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.746352
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.311256
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.301697
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.194045
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.069221
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.731202
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.438307
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.789623
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.418096
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.201593
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.391081
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.877541
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 27.568420
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.843564
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 31.467141
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.410247
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.317722
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.743613
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.570279
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.978815
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.370360
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.407668
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.909968
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 13.985543
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.495437
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.204287
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.606512
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.538720
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.187511
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.807230
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.976611
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.033886
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.018281
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.175063
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.674209
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.848434
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.483425
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.638962
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.229113
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.399400
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.468365
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.063004
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.602775
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.588801
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.915181
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.240636
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.137722
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.639957
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.077846
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.343164
+/var/log/syslog:May 20 00:37:39 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.268479
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.239306
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.563518
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.140828
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.599001
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.357034
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.865931
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 34.771009
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.727264
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.934436
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.399073
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 34.927500
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.549825
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.864901
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.224855
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.040577
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.380533
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.278804
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 41.893383
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 31.434528
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.738121
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.275577
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.131768
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.327813
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.004299
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 13.638737
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.077861
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.486069
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.279813
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.653574
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.002749
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.136444
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.536032
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.914453
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.141370
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.625505
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.411787
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.927551
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.030445
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.652313
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.953525
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.750754
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 21.792086
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.762044
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.074820
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.650301
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.445210
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 19.217927
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.644109
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.077669
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.979770
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.097720
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.087288
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.021291
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.115554
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.111946
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.143648
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.477609
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.834744
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.004712
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.934642
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.861808
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.364531
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 18.904197
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.400938
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.965302
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.759187
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.977234
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.573040
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.786929
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.292797
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 31.481225
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.334059
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.837723
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.529882
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.411940
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 38.696334
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.793835
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.880271
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.411912
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.289501
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.063161
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 40.121396
+/var/log/syslog:May 20 00:37:40 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.435842
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 34.592774
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 33.202100
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.558859
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.170748
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.117383
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 21.023966
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.762385
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 32.194019
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.049426
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.200206
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 39.305369
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.457344
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 31.443485
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.925737
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.033989
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.635737
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.149699
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.185108
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.893011
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.759885
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.130894
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.928848
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 33.692574
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.974371
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.459441
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 37.558000
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.095275
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.654154
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.575008
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.660077
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.439155
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.041424
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.527637
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 26.072408
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.873914
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.750156
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.173710
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.744277
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.729237
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.250236
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 19.884061
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.737323
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.760453
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.337773
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 31.716862
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.282995
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.252595
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.947290
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.702932
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 28.309160
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 38.743185
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.413313
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.028960
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.095707
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.093929
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.147183
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 40.849368
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.524451
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.358213
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.523633
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.020207
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.006537
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.023184
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.013520
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 22.889652
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.064137
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.283114
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.223281
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.118838
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.524404
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.539926
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.066868
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 15.217537
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.095989
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.097263
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.494940
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.815790
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.729631
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.626047
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.827889
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.555754
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.553554
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.202532
+/var/log/syslog:May 20 00:37:41 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.736570
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.147802
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.665791
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.447695
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.825054
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.808461
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.505511
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.822980
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 17.184092
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.005705
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.145521
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.556291
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.595684
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.344861
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.716458
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.228607
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.094705
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.431584
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.711446
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.396185
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.769039
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.274397
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.168781
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 37.395745
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.756895
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.625424
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 32.082178
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.663019
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.591566
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.288162
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.881832
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.104097
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.993137
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.490270
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.539235
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.055930
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.428205
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.164348
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.262619
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.247087
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.617361
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 37.088586
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.538500
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.811611
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.559248
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 31.388429
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.588395
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.102889
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 41.235127
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.763191
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.455883
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.274149
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.675864
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.336157
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.592165
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.912403
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.836070
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 14.999614
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.017670
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.496434
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.015307
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.863325
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.271114
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.514398
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.931752
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.859647
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.352871
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.970304
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.797530
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.113163
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 36.562680
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.728516
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.235176
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 25.813319
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.898156
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.711205
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.912314
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.810797
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 34.606739
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.708302
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.848827
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.914372
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.707510
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.062660
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.328772
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.812391
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.883910
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.501727
+/var/log/syslog:May 20 00:37:42 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.430489
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.117356
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.073959
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.041716
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.510270
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.552996
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.398074
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.930254
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.502321
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.558678
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 16.671421
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.002533
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 15.813022
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.338648
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 62.025663
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.608423
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.454082
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 40.300180
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.679558
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.008146
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.522100
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.865374
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.744436
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.782839
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.464681
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.313938
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 26.037960
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.854272
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.275725
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.829809
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.115716
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.222701
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.998773
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.354677
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.118580
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.327023
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.584267
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 16.744819
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.138319
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.686162
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.497859
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.441901
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.620164
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.851158
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.802097
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.959997
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.635325
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.296423
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.583992
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.634008
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.959423
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.100307
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.987179
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 15.078963
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.926337
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.677804
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.426421
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.827755
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 36.087934
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.209072
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.241947
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.939856
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.713735
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.289986
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.710249
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 32.388936
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.881546
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.457303
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.688337
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.581634
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.076306
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.749790
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.959230
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.137304
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.383438
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.122242
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 25.130479
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.592350
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.589600
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 32.852868
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.260587
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.553503
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.729410
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.888719
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.660041
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.653737
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.754546
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.099142
+/var/log/syslog:May 20 00:37:43 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.658793
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.453221
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.251957
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.959260
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.475168
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 19.863200
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.903088
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.781000
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.012101
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 24.763497
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.255134
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.183392
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.486584
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 30.544563
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.093910
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.289768
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.183102
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.794356
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.456657
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.308062
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.041223
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.755894
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.049833
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.322475
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.488664
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.200006
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.536231
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.056999
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.320320
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.267587
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.444335
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.801574
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.227746
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.928590
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.323699
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 31.009226
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.414235
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.605039
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.054639
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 30.278616
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.110951
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 40.522006
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.266086
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.782468
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.016797
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 33.414162
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.994803
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.164749
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.776437
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.250597
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 22.470428
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.371760
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.148250
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 26.870377
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.072138
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.429231
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.873760
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.008100
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.228745
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.912125
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.723492
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.728693
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.728599
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.373558
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.218212
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.881042
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.039070
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.118643
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.844149
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.941605
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.692113
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.751148
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.243253
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.255281
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 13.647779
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.364508
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.233903
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 26.002695
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.061366
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.693326
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.279189
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 34.801825
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.680679
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.449952
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.033060
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.754145
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.952917
+/var/log/syslog:May 20 00:37:44 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.293043
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.182800
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.780221
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.191770
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 23.472151
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.165437
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.560885
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.525713
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.702352
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.657410
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.182460
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.952891
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.716733
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 16.768508
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.603086
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.204914
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.314608
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.822914
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.521666
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.551960
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.405653
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.918519
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.981610
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.490361
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.636370
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 34.754261
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.090465
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.646915
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.021337
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.099267
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.771016
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.213804
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.355438
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.602167
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.541284
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.619582
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.923824
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.490644
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.346833
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.392558
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 16.992980
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 39.740870
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.106992
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.509131
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.630585
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.345765
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 16.969346
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.943432
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 16.513383
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.868783
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.599826
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.100006
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.437740
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.155837
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.980469
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.004566
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.460642
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 15.593351
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.259831
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.892099
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 25.016299
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.342011
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.902779
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.837616
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 27.565526
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.678604
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.215484
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.019648
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 23.891254
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 49.760676
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.861471
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.066620
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.403776
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.121933
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.659068
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.474425
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 40.147230
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.332638
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.484192
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.964876
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.582886
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.732294
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.334027
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.135555
+/var/log/syslog:May 20 00:37:45 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.354242
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.201992
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.565724
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.600781
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.149897
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.335798
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.803313
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.328409
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.024869
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.313624
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.898318
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 16.897554
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.960741
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.077614
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.610984
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.717597
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.366263
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.304665
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.042542
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.790934
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.958811
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.845623
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 24.346016
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.035428
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.353582
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.249777
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.818431
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.738264
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 24.658383
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.577180
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.092474
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.896027
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.081316
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.333004
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.169695
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.634736
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.424278
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.332187
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.702353
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.206979
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.054448
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.227925
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.531534
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.634459
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.389993
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.993349
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.965306
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.140772
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.583469
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.946110
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.431671
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.329280
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.297829
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.787569
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.808083
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.435565
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 35.396334
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.379274
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.624403
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.780179
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.729130
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.335196
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.998940
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.121951
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.864692
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.452558
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.282234
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.074184
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.241457
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.141187
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 24.748781
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.580457
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.017252
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 27.450247
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.289160
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.529608
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 40.632028
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.487310
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.799841
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.514471
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.723617
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 34.033531
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.826442
+/var/log/syslog:May 20 00:37:46 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 39.879214
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.464162
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.967067
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 29.137996
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.786129
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.437222
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 35.127445
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.754855
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.550761
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 34.889031
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.720769
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.416494
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.679032
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.041215
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 16.200624
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.548174
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.635583
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.288285
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.205710
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.538654
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 19.356156
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.468108
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 31.481786
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.253659
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.969096
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.993420
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.998340
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.436552
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.867448
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.120100
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.656955
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.510381
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.689683
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.759563
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.290431
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.481410
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.254329
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.351793
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.252281
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 30.157006
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.326897
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.012277
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.102374
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.570189
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.417917
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.164225
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.663093
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.782876
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.057439
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.731807
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.238501
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.220880
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.352945
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 15.588743
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.407300
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.213081
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.158823
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.607118
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.422952
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.709685
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 16.231564
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.717492
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.753999
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.673911
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.344522
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 28.543449
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.796695
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.823976
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.748177
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.102095
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.454188
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.119335
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.343255
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.424986
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.533877
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.754367
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.361822
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 26.975327
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.559168
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 42.890543
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.025960
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.975276
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.277576
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.502073
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.914382
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 34.081983
+/var/log/syslog:May 20 00:37:47 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.764233
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.479136
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 31.446363
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 33.328254
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.687322
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 37.688190
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.027996
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.317241
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.143320
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.639704
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.342159
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.862935
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 38.516151
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 30.470924
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 41.302446
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.980297
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.091513
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.138011
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.099031
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.299167
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.054624
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 27.163854
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.112386
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.856803
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.401752
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.668899
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.061192
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.502962
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.434121
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 12.844815
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.325312
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.567576
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 27.285696
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.270328
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 58.847027
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.060555
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.646182
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 30.978651
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.880953
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 44.260347
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.801802
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.014644
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.313655
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.869530
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.478121
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.958375
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.152865
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.904382
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 17.046373
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.553077
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.468838
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 59.375516
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.396102
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.665725
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 56.565264
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 19.190741
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.190999
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.644034
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.920340
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.495395
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 25.785338
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 60.978622
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.042285
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.160825
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.753663
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 18.235202
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 61.048231
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.048573
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.353741
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.851382
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 31.502810
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 31.859694
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.500500
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.611089
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.446560
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 26.248336
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.127289
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.463233
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 32.648950
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.345865
+/var/log/syslog:May 20 00:37:48 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 44.481635
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.291581
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.703172
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.980048
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.967905
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 57.806288
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.530452
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.158590
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.511801
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 20.453400
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 53.289610
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.168965
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.014573
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 43.324910
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.638423
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.038033
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 48.777259
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.515917
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.892329
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.741999
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 16.881199
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.679548
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.991038
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.385119
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.327262
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.909386
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 26.485760
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.539795
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.288824
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.256549
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.088035
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 31.344455
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.572172
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.239047
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.496678
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 39.692556
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.657212
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.051766
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.361905
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.658184
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 30.443866
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 54.731233
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 55.299045
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.338933
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 30.777331
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.149556
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 19.322006
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.357088
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.750187
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.892556
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.883979
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 30.448452
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.452180
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.352374
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 20.403808
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 29.283764
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.983849
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.278183
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 45.376160
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 22.295202
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 27.338262
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 50.231822
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.316056
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.296505
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 51.205781
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 18.498378
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 24.074245
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 38.172014
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 26.634382
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 28.520593
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 38.273983
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.459252
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 18.967100
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 36.079450
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 46.174658
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.515716
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.680477
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 21.229268
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 20.140068
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 40.007265
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 52.564076
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.871112
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.023450
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP LIGHT DETECTION FPS: 40.322348
+/var/log/syslog:May 20 00:37:49 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 19.778096
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.099081
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.910759
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 37.173815
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 39.182311
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.101564
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.107311
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.554206
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.386881
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.526940
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.261790
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 41.861127
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.477371
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 21.957725
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.159776
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.147563
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 23.307202
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.521819
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.957285
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.574399
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 22.607722
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.649753
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.093170
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.765673
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: LANE DETECTION FPS: 20.535393
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.020858
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.132190
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.851137
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 42.720093
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 23.388646
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.782139
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.879801
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.550075
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.397670
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 44.320320
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.597983
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.597816
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 44.569401
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.561695
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.463884
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 44.220179
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.734969
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.409738
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.756396
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.642540
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.736860
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.945988
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 24.610387
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: STOP SIGN DETECTION FPS: 43.339871
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 25.639894
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 25.833117
+/var/log/syslog:May 20 00:37:50 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 26.140686
+/var/log/syslog:May 20 00:37:51 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 25.982679
+/var/log/syslog:May 20 00:37:51 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 26.084352
+/var/log/syslog:May 20 00:37:51 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 26.043656
+/var/log/syslog:May 20 00:37:51 manavi-desktop 612_FINAL[11266]: PEDESTRIAN FPS: 26.130962
+/var/log/syslog:May 20 00:37:51 manavi-desktop 612_FINAL[11266]: Finished running
